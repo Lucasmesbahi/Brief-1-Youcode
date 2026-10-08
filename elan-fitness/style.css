@@ -645,3 +645,25 @@ button:focus-visible {
     align-items: center;
   }
 }
+.contact {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact form {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.contact input,
+.contact textarea {
+    width: 100%;
+    padding: 10px;
+}
+
+.contact button {
+    align-self: center;
+    background-color: #C2410C;
+    padding: 10px 25px;
+}
