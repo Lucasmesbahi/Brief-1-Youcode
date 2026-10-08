@@ -6,7 +6,8 @@
 }
 
 .contact h1 {
-    color: rgb(134, 0, 0);
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 107, 44);
 }
 
 .contact{
@@ -29,6 +30,6 @@
 }
 .contact button {
     align-self: center;
-    background-color: #e84e11;
+    background-color: #FF6B2C;
     padding: 10px 25px;
 }
