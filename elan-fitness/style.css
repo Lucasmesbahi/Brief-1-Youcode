@@ -650,10 +650,11 @@ button:focus-visible {
     margin: 0 auto;
 }
 
-.contact form {
+.contact{
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    align-items: center;
+    gap: 10px;
 }
 
 .contact input,
