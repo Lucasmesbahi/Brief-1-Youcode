@@ -1,8 +1,8 @@
 .contactus {
   display: block;
   margin: 0 auto;
-  justify-content: center;
-  width: 700px;
+  width: 100%;
+  max-width: 700px;
 }
 
 .contact h1 {
@@ -38,4 +38,15 @@
 .message{
     resize: none;
     height: 120px;
+}
+@media (max-width: 767px) {
+  .contact {
+    margin: 20px 16px;
+    padding: 24px 16px;
+  }
+
+  .contact h1 {
+    font-size: 26px;
+    text-align: center;
+  }
 }
