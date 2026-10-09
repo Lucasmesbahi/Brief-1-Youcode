@@ -16,6 +16,10 @@
 * HTML
 * CSS
 * Trello
+* Git
+* Github
+* Pintrest
+*  UX/UI , SEO
 
 ## Fonctionnalités
 
