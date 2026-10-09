@@ -39,3 +39,6 @@ elan-fitness/
 ├── style.css
 ├── style2.css
 └── img/
+
+## Trello link
+https://trello.com/b/Wwrd18Sz/elanfitness
