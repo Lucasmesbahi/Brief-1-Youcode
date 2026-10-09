@@ -165,7 +165,7 @@ button:focus-visible {
 }
 
 .en-tete-contenu {
-  height: 80px;
+  height: auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -644,4 +644,19 @@ button:focus-visible {
     text-align: center;
     align-items: center;
   }
+.en-tete-contenu {
+  height: auto;
+  flex-direction: column;
+  gap: 12px;
+  padding: 15px 0;
+}
+.logo {
+  font-size: 20px;
+}
+.menu {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
 }
