@@ -662,4 +662,30 @@ button:focus-visible {
 .menu a {
   font-size: 14px;
 }
+.pied-de-page {
+  padding: 28px 0 20px;
+}
+.pied-haut {
+  padding-bottom: 20px;
+  gap: 12px;
+}
+.menu-pied {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px 16px;
+}
+.pied-bas {
+  margin-top: 16px;
+  gap: 8px;
+  font-size: 12px;
+}
+.hero-texte h1 {
+  font-size: 32px;
+}
+.hero-description {
+  font-size: 16px;
+}
+.hero {
+  padding: 40px 0 56px;
+}
 }
